@@ -1,0 +1,112 @@
+{
+  "frames": {
+    "CPU": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      }
+    },
+    "Docs": {
+      "frame": {
+        "x": 18,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      }
+    },
+    "Docs_2": {
+      "frame": {
+        "x": 0,
+        "y": 18,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      }
+    },
+    "Guitar": {
+      "frame": {
+        "x": 18,
+        "y": 18,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      }
+    },
+    "Laptop": {
+      "frame": {
+        "x": 36,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 16
+      }
+    }
+  },
+  "meta": {
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAiAQMAAAAqOWguAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAALVJREFUGNNjAAMmECH/h4EPShuB6b8NhxgY2B9I8DYD5TVE5P+2AGnuCxK8IFr7CpDPDOXzN0D4VgcYOASA9NcEBvUn8n/bVz0Am9Mc3gAykLFxHYhi/9/wgwECEhgwAE8CAyNIdYYXA/MBIO1/CkIHaDEcBYnHv2I8BVIXkcU4hQHMZ14B4ctfgPDtl4Fox1f2dSA69pXdHxDt+8r8A4hOfWW9AEQXcMk+ANH1v/iBNNhdIGsAHFQ8tTC3LAoAAAAASUVORK5CYII=",
+    "scale": "1",
+    "size": {
+      "w": 52,
+      "h": 34
+    }
+  }
+}
